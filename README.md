@@ -6,10 +6,10 @@
   <a href="mailto:wzwangyc@163.com">
     <img src="https://img.shields.io/badge/Email-wzwangyc@163.com-blue?style=flat-square&logo=gmail" />
   </a>
-  <a href="https://linkedin.com/in/wzwangyc">
+  <a href="https://www.linkedin.com/in/wzwangyc/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" />
   </a>
-   <a href="https://music.163.com/#/artist?id=YOUR_NETEASE_ID">
+   <a href="https://music.163.com/#/artist?id=12057020">
     <img src="https://img.shields.io/badge/NetEase_Music-Musician-C20C0C?style=flat-square&logo=netease-cloud-music" />
   </a>
 </div>

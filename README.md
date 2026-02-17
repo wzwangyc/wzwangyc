@@ -60,14 +60,10 @@ Previously, I interned at **Baidu Qianfan (LLM Division)** as a Financial AI Alg
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wzwangyc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzwangyc&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wzwangyc&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=wzwangyc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=18181b" height="165" alt="stats" />
+  <br/><br/> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wzwangyc&layout=compact&theme=tokyonight&hide_border=true&bg_color=18181b" height="165" alt="languages" />
+  <br/><br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=wzwangyc&theme=tokyonight&hide_border=true&bg_color=18181b" height="165" alt="streak" />
 </div>
